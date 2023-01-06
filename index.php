@@ -7,6 +7,12 @@
     <title>Document</title>
 </head>
 <body>
+    <ul>
+        <li>Vagrant</li>
+        <li>Docker</li>
+        <li>Ansible</li>
+        <li>Integração continua</li>
+    </ul>
     
 </body>
 </html>
